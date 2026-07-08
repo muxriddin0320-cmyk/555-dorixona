@@ -1,0 +1,6 @@
+{
+  "name": "555 dorixona",
+  "description": "555 dorixonasining rasmiy veb-sayti. Namangan viloyati, Chust tumanida joylashgan dorixona haqida ma'lumotlar, dori-darmonlar katalogi, ish vaqti va bog'lanish bo'limi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
